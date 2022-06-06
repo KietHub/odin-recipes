@@ -1,0 +1,18 @@
+.food-image {
+    width: 800px;
+    margin: auto;
+    display: block;
+}
+
+h1, h3, .bullet {
+    text-align: center;
+}
+
+.bullet {
+    width: 500px;
+    padding: 20px;
+    border: 20px;
+    margin: auto;
+    display: block;
+}
+
